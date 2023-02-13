@@ -1,1 +1,1 @@
-letter only
+AZ
